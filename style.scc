@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+img {
+border: double;
+}
+p {
+    background-color: lightblue;
+}
+main {
+    background-color: lightgreen;
+    border-left:3px solid black ;
+    border-right: 3px solid black;
+}
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
